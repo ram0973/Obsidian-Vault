@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "4240eaec9dd17224",
+    "type": "split",
+    "children": [
+      {
+        "id": "29664c984a74cd69",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basic things in Java.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41a06cb3485f1397",
+    "type": "split",
+    "children": [
+      {
+        "id": "425ddf08ebdcecd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d1f67ee8b409c0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "02355436b3360ffe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13803e71da237503",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 150.5
+  },
+  "right": {
+    "id": "809127fae0ceb956",
+    "type": "split",
+    "children": [
+      {
+        "id": "db74e9b5f56748c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0aee5ac29746c63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basic things in Java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ab3271413890bd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basic things in Java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bd31691bf980c16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "936102936f358d34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basic things in Java.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29664c984a74cd69",
+  "lastOpenFiles": [
+    "Текущие дела.md"
+  ]
+}

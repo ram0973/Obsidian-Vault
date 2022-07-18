@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9d2fe4ed4d5c0ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae53691807f36f42",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "6ac781474cc3fa8d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "123.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac92b756a5ad94af",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed5555787d781c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3692de32d3163db5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdc6bf55e9970649",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe3892d53f3ef09a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fc8e3cbecca9060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267e4fe40f40436c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "123.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ae53691807f36f42",
+  "lastOpenFiles": [
+    "123.md"
+  ]
+}
