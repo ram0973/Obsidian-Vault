@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Inheritance and packages in Java.md",
+            "file": "Java/Exceptions.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150.5
+    "width": 387.5
   },
   "right": {
     "id": "809127fae0ceb956",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Inheritance and packages in Java.md",
+                "file": "Java/Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Inheritance and packages in Java.md",
+                "file": "Java/Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Inheritance and packages in Java.md"
+                "file": "Java/Exceptions.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "29664c984a74cd69",
   "lastOpenFiles": [
-    "Java/Basic things in Java.md",
+    "Java/Strings, StringBuilder, StringBuffer.md",
+    "Java/Interfaces and lambdas.md",
     "Java/Inheritance and packages in Java.md",
+    "Java/Basic things in Java.md",
     "Java/Classes and Objects.md",
     "Java/Arrays in Java.md",
     "Java/Conditional expressions in Java.md",
